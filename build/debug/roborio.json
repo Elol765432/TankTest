@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.31.58.2",
+    "project": "TankTest-Imported"
+  }
+]
